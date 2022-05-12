@@ -200,6 +200,8 @@ It is better to put the main program inside the if statement if double underscor
 
 # OUTPUT
 
+### BFS.py
+
 On Process
 
 ![Output 1](https://github.com/afiqakraam/Python-Maze/blob/main/Demo1.png)
@@ -207,3 +209,13 @@ On Process
 Finished
 
 ![Output 2](https://github.com/afiqakraam/Python-Maze/blob/main/Demo2.png)
+
+### BFSdemo.py
+
+Looking for a path that can be passed to get to the goal
+
+![Output 3](https://github.com/afiqakraam/Python-Maze/blob/main/Demo3.png)
+
+Searching for the shortest path
+
+![Output 4](https://github.com/afiqakraam/Python-Maze/blob/main/Demo4.png)
